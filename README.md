@@ -16,6 +16,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0041-first-missing-positive](https://github.com/viditjn115/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/viditjn115/DSA-Journey/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
@@ -166,6 +167,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +189,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Counting
