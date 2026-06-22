@@ -6,6 +6,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -35,6 +36,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -49,4 +51,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
