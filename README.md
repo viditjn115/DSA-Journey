@@ -55,6 +55,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/viditjn115/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
