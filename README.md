@@ -44,6 +44,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3861-minimum-capacity-box](https://github.com/viditjn115/DSA-Journey/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
 |  |
 | ------- |
