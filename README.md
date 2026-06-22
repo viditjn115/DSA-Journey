@@ -160,6 +160,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/viditjn115/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viditjn115/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -201,6 +202,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0038-count-and-say](https://github.com/viditjn115/DSA-Journey/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viditjn115/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3941-password-strength](https://github.com/viditjn115/DSA-Journey/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
