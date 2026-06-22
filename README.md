@@ -63,6 +63,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
