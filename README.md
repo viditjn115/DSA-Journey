@@ -19,6 +19,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/viditjn115/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
@@ -132,6 +133,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
