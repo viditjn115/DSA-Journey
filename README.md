@@ -10,6 +10,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/viditjn115/DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/viditjn115/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
@@ -73,6 +74,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/viditjn115/DSA-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
