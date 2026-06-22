@@ -27,6 +27,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0164-maximum-gap](https://github.com/viditjn115/DSA-Journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viditjn115/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/viditjn115/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/viditjn115/DSA-Journey/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -99,6 +101,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viditjn115/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
