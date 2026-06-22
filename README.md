@@ -17,6 +17,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/viditjn115/DSA-Journey/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
