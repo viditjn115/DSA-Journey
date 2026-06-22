@@ -15,6 +15,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0041-first-missing-positive](https://github.com/viditjn115/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/viditjn115/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
@@ -124,6 +125,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -190,6 +192,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0011-container-with-most-water](https://github.com/viditjn115/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
