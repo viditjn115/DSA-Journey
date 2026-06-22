@@ -8,7 +8,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
@@ -55,7 +55,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -70,14 +69,11 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
