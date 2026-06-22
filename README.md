@@ -17,7 +17,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
-| [0056-merge-intervals](https://github.com/viditjn115/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
@@ -39,6 +38,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/viditjn115/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/viditjn115/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
@@ -142,7 +142,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
-| [0056-merge-intervals](https://github.com/viditjn115/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/viditjn115/DSA-Journey/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
@@ -237,6 +236,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/viditjn115/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [3862-find-the-smallest-balanced-index](https://github.com/viditjn115/DSA-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Stack
 |  |
