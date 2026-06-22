@@ -22,6 +22,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/viditjn115/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -98,6 +99,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +142,24 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
