@@ -23,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -65,6 +66,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -123,5 +125,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
