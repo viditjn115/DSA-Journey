@@ -11,6 +11,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -25,6 +26,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -50,9 +52,18 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
