@@ -33,6 +33,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -136,6 +138,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viditjn115/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 ## Dynamic Programming
@@ -214,6 +217,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 ## Prefix Sum
