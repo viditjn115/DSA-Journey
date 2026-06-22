@@ -22,6 +22,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/viditjn115/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/viditjn115/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -175,5 +176,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
+| [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
