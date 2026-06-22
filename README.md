@@ -93,6 +93,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/viditjn115/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [3941-password-strength](https://github.com/viditjn115/DSA-Journey/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
