@@ -11,6 +11,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -43,4 +45,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
