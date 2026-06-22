@@ -59,6 +59,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0007-reverse-integer](https://github.com/viditjn115/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -132,4 +133,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
