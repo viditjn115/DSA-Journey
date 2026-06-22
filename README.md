@@ -7,6 +7,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/viditjn115/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -76,6 +77,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/viditjn115/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -184,6 +186,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/viditjn115/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
