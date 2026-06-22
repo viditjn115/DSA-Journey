@@ -11,7 +11,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/viditjn115/DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/viditjn115/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
@@ -24,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/viditjn115/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/viditjn115/DSA-Journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viditjn115/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
@@ -52,6 +52,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/viditjn115/DSA-Journey/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viditjn115/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/viditjn115/DSA-Journey/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -93,7 +95,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/viditjn115/DSA-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +108,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -177,6 +179,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
