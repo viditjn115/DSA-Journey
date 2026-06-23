@@ -23,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0057-insert-interval](https://github.com/viditjn115/DSA-Journey/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
@@ -149,6 +150,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
@@ -225,6 +227,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditjn115/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
