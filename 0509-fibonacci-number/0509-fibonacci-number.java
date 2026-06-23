@@ -3,8 +3,13 @@ class Solution {
         if(n==0 || n==1){
             return n;
         }
-        else{
-            return fib(n-1)+fib(n-2);
+        int s1=0;
+        int s2=1;
+        for(int i=2 ;i<=n;i++){
+            int sum=s1+s2;
+            s1=s2;
+            s2=sum;
         }
+        return s2;
     }
 }
