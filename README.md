@@ -123,6 +123,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
@@ -234,6 +236,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,4 +295,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
