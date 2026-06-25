@@ -185,6 +185,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
@@ -205,6 +206,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0008-string-to-integer-atoi](https://github.com/viditjn115/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditjn115/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/viditjn115/DSA-Journey/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -229,6 +231,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditjn115/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/viditjn115/DSA-Journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
