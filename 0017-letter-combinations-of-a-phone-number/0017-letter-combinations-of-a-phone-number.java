@@ -1,8 +1,7 @@
-import java.util.*;
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        List<String> letter_comb=new ArrayList<>();
-        Map<Character,String> map = new HashMap<>();
+    List<String> letter_comb=new ArrayList<>();
+
+    Map<Character,String> map = new HashMap<>();{
         map.put('2',"abc");
         map.put('3',"def");
         map.put('4',"ghi");
@@ -10,23 +9,22 @@ class Solution {
         map.put('6',"mno");
         map.put('7',"pqrs");
         map.put('8',"tuv");
-        map.put('9',"wxyz"); 
-        
-        if(digits.length()!=0){
-            letter_comb.add("");
-            for(int i=0;i<digits.length();i++){
-                String letters=map.get(digits.charAt(i));
-                List<String> temp=new ArrayList<>();
-                for (int j = 0; j < letter_comb.size(); j++) {
-                    String existing = letter_comb.get(j);
-                    for (int k = 0; k < letters.length(); k++) {
-                        char letter = letters.charAt(k);
-                        temp.add(existing + letter);
-                    }
-                }
-                letter_comb=temp;
-            }
-        }
+        map.put('9',"wxyz");
+    }
+
+    public List<String> letterCombinations(String digits) {
+        backtrack(0 , digits , new StringBuilder());
         return letter_comb;
+    }
+    public void backtrack(int ind , String digits , StringBuilder sb ){
+        if(sb.length() == digits.length()){
+            letter_comb.add(sb.toString());
+            return;
+        }
+        for(char ch:map.get(digits.charAt(ind)).toCharArray()){
+            sb.append(ch);
+            backtrack(ind+1 , digits, sb);
+            sb.deleteCharAt(sb.length()-1); 
+        }
     }
 }
