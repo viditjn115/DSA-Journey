@@ -74,6 +74,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3861-minimum-capacity-box](https://github.com/viditjn115/DSA-Journey/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/viditjn115/DSA-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
@@ -291,6 +292,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Prefix Sum
 |  |
 | ------- |
