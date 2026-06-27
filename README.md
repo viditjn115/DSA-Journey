@@ -66,6 +66,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viditjn115/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
@@ -164,6 +165,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -248,6 +250,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0077-combinations](https://github.com/viditjn115/DSA-Journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/viditjn115/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 ## Simulation
 |  |
 | ------- |
