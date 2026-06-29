@@ -134,6 +134,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/viditjn115/DSA-Journey/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -265,6 +266,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/viditjn115/DSA-Journey/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
