@@ -75,6 +75,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2293-min-max-game](https://github.com/viditjn115/DSA-Journey/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -261,6 +262,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2293-min-max-game](https://github.com/viditjn115/DSA-Journey/tree/master/2293-min-max-game) |
 ## Recursion
 |  |
 | ------- |
