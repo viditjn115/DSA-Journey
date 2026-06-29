@@ -1,17 +1,17 @@
 class Solution {
     public int minMaxGame(int[] nums) {
-        if(nums.length==1){
-            return nums[0];
-        }
-        int [] newnums= new int[nums.length/2];
-        for(int i=0;i<nums.length-1;i=i+2){
-            if(i%4==0){
-                newnums[i/2]=Math.min(nums[i],nums[i+1]);
+        while(nums.length>1){
+            int [] newnums = new int [nums.length/2];
+            for(int i=0;i<newnums.length;i++){
+                if(i%2==0){
+                    newnums[i]=Math.min(nums[2*i],nums[2*i+1]);
+                }
+                else{
+                    newnums[i]=Math.max(nums[2*i],nums[2*i+1]);
+                }
             }
-            else{
-                newnums[i/2]=Math.max(nums[i],nums[i+1]);
-            }
+            nums=newnums;           
         }
-        return minMaxGame(newnums);
+        return nums[0];
     }
 }
