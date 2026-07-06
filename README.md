@@ -73,6 +73,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -122,6 +123,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/viditjn115/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3941-password-strength](https://github.com/viditjn115/DSA-Journey/tree/master/3941-password-strength) |
@@ -173,6 +175,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0036-valid-sudoku](https://github.com/viditjn115/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
