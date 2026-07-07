@@ -120,6 +120,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/viditjn115/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/viditjn115/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/viditjn115/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/viditjn115/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
@@ -237,6 +239,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/viditjn115/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viditjn115/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3941-password-strength](https://github.com/viditjn115/DSA-Journey/tree/master/3941-password-strength) |
