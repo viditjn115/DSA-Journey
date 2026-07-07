@@ -23,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0046-permutations](https://github.com/viditjn115/DSA-Journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/viditjn115/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/viditjn115/DSA-Journey/tree/master/0056-merge-intervals) |
@@ -115,6 +116,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditjn115/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/viditjn115/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/viditjn115/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/viditjn115/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/viditjn115/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
@@ -200,6 +202,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0015-3sum](https://github.com/viditjn115/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/viditjn115/DSA-Journey/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/viditjn115/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/viditjn115/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/viditjn115/DSA-Journey/tree/master/0164-maximum-gap) |
@@ -238,6 +241,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0020-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/viditjn115/DSA-Journey/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/viditjn115/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/viditjn115/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
