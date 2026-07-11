@@ -169,6 +169,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -365,4 +366,5 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viditjn115/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
