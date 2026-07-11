@@ -361,4 +361,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/viditjn115/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
