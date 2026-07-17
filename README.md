@@ -54,6 +54,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/viditjn115/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/viditjn115/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -356,6 +357,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -365,6 +367,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
