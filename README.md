@@ -87,6 +87,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3861-minimum-capacity-box](https://github.com/viditjn115/DSA-Journey/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/viditjn115/DSA-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
@@ -183,6 +184,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/viditjn115/DSA-Journey/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -384,4 +387,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viditjn115/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viditjn115/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
