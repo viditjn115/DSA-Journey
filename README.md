@@ -81,6 +81,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -378,6 +379,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -391,6 +393,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Memoization
 |  |
 | ------- |
