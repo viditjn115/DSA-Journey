@@ -7,13 +7,7 @@ class Solution {
             while(!dq.isEmpty()&& (i==n || heights[i]<heights[dq.peek()])){
                 int ele =dq.pop();
                 int nextSmaller=i;
-                int prevSmaller=0;
-                if(dq.isEmpty()){
-                    prevSmaller=-1;
-                }
-                else{
-                    prevSmaller=dq.peek();
-                }
+                int prevSmaller = dq.isEmpty()? -1 : dq.peek();
                 int width=nextSmaller-prevSmaller-1;
                 int Area = heights[ele]*width;
                 maxArea=Math.max(maxArea,Area);
