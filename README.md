@@ -32,6 +32,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0075-sort-colors](https://github.com/viditjn115/DSA-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -365,6 +366,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0020-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -377,6 +379,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
