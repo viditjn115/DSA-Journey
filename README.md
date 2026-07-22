@@ -33,6 +33,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0078-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,6 +192,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0036-valid-sudoku](https://github.com/viditjn115/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -233,6 +235,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0045-jump-game-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viditjn115/DSA-Journey/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/viditjn115/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viditjn115/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,6 +370,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0032-longest-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -380,6 +384,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
