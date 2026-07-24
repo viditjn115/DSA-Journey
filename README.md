@@ -89,6 +89,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [2293-min-max-game](https://github.com/viditjn115/DSA-Journey/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3861-minimum-capacity-box](https://github.com/viditjn115/DSA-Journey/tree/master/3861-minimum-capacity-box) |
@@ -116,6 +117,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Memoization
 |  |
 | ------- |
