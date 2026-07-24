@@ -52,6 +52,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/viditjn115/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -177,6 +178,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -349,6 +351,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/viditjn115/DSA-Journey/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
@@ -376,6 +379,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
@@ -392,6 +396,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
