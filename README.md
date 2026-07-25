@@ -384,6 +384,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -400,6 +401,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -418,4 +420,12 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
