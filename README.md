@@ -84,6 +84,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/viditjn115/DSA-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Hash Table
@@ -215,6 +217,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0713-subarray-product-less-than-k](https://github.com/viditjn115/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/viditjn115/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viditjn115/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viditjn115/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -234,6 +237,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +366,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/viditjn115/DSA-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Prefix Sum
 |  |
@@ -373,6 +378,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0713-subarray-product-less-than-k](https://github.com/viditjn115/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/viditjn115/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3862-find-the-smallest-balanced-index](https://github.com/viditjn115/DSA-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Stack
 |  |
