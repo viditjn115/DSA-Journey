@@ -26,11 +26,11 @@ class Solution {
         ListNode fast=head;
         ListNode slow=head;
         int c=0;
-        while(c<k && fast!=null){
+        while(c<k && fast!=null){   
             fast=fast.next;
             c++;
         }
-        while(fast.next!=null && fast!=null){
+        while(fast.next!=null){
             fast=fast.next;
             slow=slow.next;
         }
