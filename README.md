@@ -82,6 +82,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viditjn115/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -242,6 +243,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -337,6 +339,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
