@@ -329,6 +329,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/viditjn115/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
@@ -433,6 +434,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viditjn115/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/viditjn115/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/viditjn115/DSA-Journey/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viditjn115/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0092-reverse-linked-list-ii) |
