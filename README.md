@@ -453,6 +453,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0142-linked-list-cycle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
@@ -461,6 +462,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/viditjn115/DSA-Journey/tree/master/0911-online-election) |
 ## Data Stream
