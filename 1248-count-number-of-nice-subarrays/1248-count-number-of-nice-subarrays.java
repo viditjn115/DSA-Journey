@@ -2,7 +2,7 @@ class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         return (noOfSubarray(k,nums)-noOfSubarray(k-1 ,nums));
     }
-    public int noOfSubarray(int k , int [] nums){
+    private int noOfSubarray(int k , int [] nums){
         int left =0;
         int right=0;
         int c=0;
