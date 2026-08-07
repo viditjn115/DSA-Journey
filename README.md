@@ -193,6 +193,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0125-valid-palindrome](https://github.com/viditjn115/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/viditjn115/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viditjn115/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
@@ -345,6 +346,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0002-add-two-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/viditjn115/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/viditjn115/DSA-Journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
@@ -414,6 +416,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0042-trapping-rain-water](https://github.com/viditjn115/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
@@ -459,6 +462,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0092-reverse-linked-list-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/viditjn115/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0328-odd-even-linked-list) |
