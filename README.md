@@ -417,6 +417,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
@@ -475,6 +476,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/viditjn115/DSA-Journey/tree/master/0911-online-election) |
@@ -495,5 +497,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
