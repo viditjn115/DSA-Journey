@@ -64,6 +64,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0525-contiguous-array](https://github.com/viditjn115/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/viditjn115/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/viditjn115/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/viditjn115/DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -467,6 +468,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
@@ -477,6 +479,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/viditjn115/DSA-Journey/tree/master/0911-online-election) |
@@ -498,5 +501,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
