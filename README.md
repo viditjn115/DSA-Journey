@@ -147,6 +147,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/viditjn115/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/viditjn115/DSA-Journey/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/viditjn115/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/viditjn115/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -468,6 +469,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0206-reverse-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/viditjn115/DSA-Journey/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -479,6 +481,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/viditjn115/DSA-Journey/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
@@ -503,4 +506,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/viditjn115/DSA-Journey/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
