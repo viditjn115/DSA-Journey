@@ -4,6 +4,7 @@ class Solution {
             return Integer.parseInt(tokens[0]);
         }
         Deque<Integer> dq = new ArrayDeque<>();
+        int ans=0;
         for(String token:tokens){
             if(!isOperator(token)){
                 dq.push(Integer.parseInt(token));
@@ -11,10 +12,11 @@ class Solution {
             else{
                 int num2 = dq.pop();
                 int num1 = dq.pop();
-                dq.push(calc(num1 , num2 ,token));
+                ans=calc(num1 , num2 ,token);
+                dq.push(ans);
             }
         }
-        return dq.pop();
+        return ans;
 
     }
     private boolean isOperator(String s){
