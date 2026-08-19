@@ -54,6 +54,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0209-minimum-size-subarray-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/viditjn115/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viditjn115/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/viditjn115/DSA-Journey/tree/master/0321-create-maximum-number) |
@@ -234,6 +235,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viditjn115/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/viditjn115/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -360,6 +362,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -507,10 +510,19 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/viditjn115/DSA-Journey/tree/master/0460-lfu-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
