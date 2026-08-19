@@ -42,6 +42,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0128-longest-consecutive-sequence](https://github.com/viditjn115/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/viditjn115/DSA-Journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/viditjn115/DSA-Journey/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditjn115/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viditjn115/DSA-Journey/tree/master/0162-find-peak-element) |
@@ -170,6 +171,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0050-powx-n](https://github.com/viditjn115/DSA-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/viditjn115/DSA-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/viditjn115/DSA-Journey/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditjn115/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/viditjn115/DSA-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viditjn115/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viditjn115/DSA-Journey/tree/master/0202-happy-number) |
@@ -419,6 +421,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0084-largest-rectangle-in-histogram](https://github.com/viditjn115/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/viditjn115/DSA-Journey/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditjn115/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/viditjn115/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
