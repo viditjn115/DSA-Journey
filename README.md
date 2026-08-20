@@ -92,6 +92,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -415,6 +416,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/viditjn115/DSA-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [3862-find-the-smallest-balanced-index](https://github.com/viditjn115/DSA-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Stack
 |  |
@@ -438,6 +440,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -455,6 +458,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Memoization
@@ -527,4 +531,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
