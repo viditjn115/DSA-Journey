@@ -10,9 +10,9 @@ class Solution {
         for(int i=0 ;i<=nums.length ;i++){
             while(!dq.isEmpty() && (i==nums.length || nums[i]<nums[dq.peek()])){
                 int ind = dq.pop();
-                int right = i-1;
+                int right = i;
                 int left = dq.isEmpty()? 0:dq.peek()+1;
-                long sum =prefix[right +1]- prefix[left];
+                long sum =prefix[right ]- prefix[left];
                 maxMinProduct=Math.max(maxMinProduct , sum*nums[ind]);
             }
             dq.push(i);
