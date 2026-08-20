@@ -324,6 +324,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0169-majority-element](https://github.com/viditjn115/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [1603-design-parking-system](https://github.com/viditjn115/DSA-Journey/tree/master/1603-design-parking-system) |
 ## Union-Find
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
+| [1603-design-parking-system](https://github.com/viditjn115/DSA-Journey/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2293-min-max-game](https://github.com/viditjn115/DSA-Journey/tree/master/2293-min-max-game) |
@@ -502,6 +504,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/viditjn115/DSA-Journey/tree/master/0911-online-election) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/viditjn115/DSA-Journey/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
