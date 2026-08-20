@@ -306,6 +306,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0316-remove-duplicate-letters](https://github.com/viditjn115/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/viditjn115/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/viditjn115/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditjn115/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viditjn115/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -400,6 +401,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0455-assign-cookies](https://github.com/viditjn115/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/viditjn115/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/viditjn115/DSA-Journey/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditjn115/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -438,6 +440,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditjn115/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
@@ -535,4 +538,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditjn115/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
