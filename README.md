@@ -91,6 +91,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -182,6 +183,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0390-elimination-game](https://github.com/viditjn115/DSA-Journey/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/viditjn115/DSA-Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -347,6 +349,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | ------- |
 | [0735-asteroid-collision](https://github.com/viditjn115/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/viditjn115/DSA-Journey/tree/master/1603-design-parking-system) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viditjn115/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viditjn115/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2293-min-max-game](https://github.com/viditjn115/DSA-Journey/tree/master/2293-min-max-game) |
@@ -363,6 +366,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0234-palindrome-linked-list](https://github.com/viditjn115/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/viditjn115/DSA-Journey/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/viditjn115/DSA-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Heap (Priority Queue)
 |  |
@@ -525,6 +529,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0239-sliding-window-maximum](https://github.com/viditjn115/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/viditjn115/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
