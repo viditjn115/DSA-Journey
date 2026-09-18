@@ -566,6 +566,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -575,6 +576,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/viditjn115/DSA-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/viditjn115/DSA-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
@@ -597,5 +600,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/viditjn115/DSA-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
