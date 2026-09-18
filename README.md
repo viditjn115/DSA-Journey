@@ -561,6 +561,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0104-maximum-depth-of-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -583,4 +584,5 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
