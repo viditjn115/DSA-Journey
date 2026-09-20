@@ -65,6 +65,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0503-next-greater-element-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/viditjn115/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viditjn115/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/viditjn115/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/viditjn115/DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/viditjn115/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -230,6 +231,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0036-valid-sudoku](https://github.com/viditjn115/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -287,6 +289,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0198-house-robber](https://github.com/viditjn115/DSA-Journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/viditjn115/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/viditjn115/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -601,5 +604,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
