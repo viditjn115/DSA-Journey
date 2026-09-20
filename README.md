@@ -83,6 +83,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0912-sort-an-array](https://github.com/viditjn115/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/viditjn115/DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viditjn115/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
@@ -233,6 +234,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0048-rotate-image](https://github.com/viditjn115/DSA-Journey/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/viditjn115/DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
 | [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -607,6 +609,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/viditjn115/DSA-Journey/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
