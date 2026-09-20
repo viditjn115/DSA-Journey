@@ -92,6 +92,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viditjn115/DSA-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/viditjn115/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/viditjn115/DSA-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viditjn115/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/viditjn115/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
@@ -233,6 +234,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0085-maximal-rectangle](https://github.com/viditjn115/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
+| [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/viditjn115/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -606,4 +608,5 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
+| [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
