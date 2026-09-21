@@ -575,6 +575,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -586,6 +587,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0129-sum-root-to-leaf-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0129-sum-root-to-leaf-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
@@ -613,6 +616,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/viditjn115/DSA-Journey/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/viditjn115/DSA-Journey/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/viditjn115/DSA-Journey/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
