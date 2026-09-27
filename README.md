@@ -86,6 +86,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0948-bag-of-tokens](https://github.com/viditjn115/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viditjn115/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/viditjn115/DSA-Journey/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viditjn115/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/viditjn115/DSA-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/viditjn115/DSA-Journey/tree/master/1219-path-with-maximum-gold) |
@@ -462,6 +463,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditjn115/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/viditjn115/DSA-Journey/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
@@ -481,6 +483,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0739-daily-temperatures](https://github.com/viditjn115/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/viditjn115/DSA-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viditjn115/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viditjn115/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1856-maximum-subarray-min-product](https://github.com/viditjn115/DSA-Journey/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/viditjn115/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -584,6 +587,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
@@ -614,6 +618,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
@@ -636,4 +641,8 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
