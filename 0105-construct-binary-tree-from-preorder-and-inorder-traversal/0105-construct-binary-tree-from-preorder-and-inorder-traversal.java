@@ -14,30 +14,29 @@
  * }
  */
 class Solution {
+    private Map<Integer, Integer> map;
+    private int ind;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        TreeNode root = new TreeNode (preorder[0]);
-        TreeNode curr = root;
-        Deque<TreeNode> dq = new ArrayDeque<>();
-        int j = 0;
-        dq.push(root);
-        for(int i =1 ; i<preorder.length ; i++){
-            TreeNode temp = new TreeNode(preorder[i]);
-            
-            if(curr.val!=inorder[j]){
-                curr.left = temp;
-                
-            }
-            else{
-                while(!dq.isEmpty() && dq.peek().val==inorder[j]){
-                    curr=dq.pop();
-                    j++;
-                }
-                curr.right = temp;
-                
-            }
-            dq.push(temp);
-            curr=temp;
+        map  = new HashMap<>();
+        for(int i =0 ;i<inorder.length ; i++){
+            map.put(inorder[i],i);
         }
+
+        return dfs(preorder , 0 , inorder.length -1);
+
+    }
+    public TreeNode dfs(int [] preorder , int start , int end){
+        if(start>end){
+            return null;
+        }
+
+        int rootVal = preorder[ind++];
+        TreeNode root = new TreeNode(rootVal);
+        int mid = map.get(rootVal);
+
+        root.left = dfs(preorder, start , mid-1);
+        root.right = dfs(preorder, mid+1 , end);
+
         return root;
     }
 }
