@@ -584,6 +584,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -599,6 +600,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -616,6 +618,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditjn115/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/viditjn115/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -644,5 +647,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
