@@ -587,6 +587,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -620,6 +621,7 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 | [0144-binary-tree-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/viditjn115/DSA-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viditjn115/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -648,5 +650,6 @@ A curated collection of my Data Structures &amp; Algorithms journey, featuring J
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viditjn115/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/viditjn115/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viditjn115/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
